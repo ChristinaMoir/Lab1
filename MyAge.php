@@ -8,13 +8,13 @@
             $myAge = 19;
             print "You are allowed to buy: ";
             if($myAge>21){
-                print "\n Sausage Rolls \n Mugs \n Specs";
+                print "</br> Sausage Rolls </br> Mugs </br> Specs";
             }else if($myAge>18){
-                print "\n Sausage Rolls \n Mugs";
+                print "</br> Sausage Rolls </br> Mugs";
             }else if($myAge>16){
-                print "\n Sausage Rolls";
+                print "</br> Sausage Rolls";
             }else{
-                print"\n Nothing";
+                print"</br> Nothing";
             }
         ?>
     </p>
