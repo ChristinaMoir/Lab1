@@ -1,6 +1,8 @@
 <?php
     include "../dbconnect.php";
-
+    if($db->connect_errno){
+        die('Connect failed['.$db->connect_error.']');
+    }
     $sql_query = "SELECT * FROM superheros WHERE superpower LIKE '%laser%'";
 
     $results = $db->query($sql_query);

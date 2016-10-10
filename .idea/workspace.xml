@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9877e72f-66ee-4be5-a84b-d438b4a2ac96" name="Default" comment="added db connecting files">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lab2/selectQuery.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbconnect.php" />
+    <list default="true" id="9877e72f-66ee-4be5-a84b-d438b4a2ac96" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lab2/selectQuery.php" afterPath="$PROJECT_DIR$/Lab2/selectQuery.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dbconnect.php" afterPath="$PROJECT_DIR$/dbconnect.php" />
     </list>
     <ignored path="Lab1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,8 +43,8 @@
       <file leaf-file-name="dbconnect.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dbconnect.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="136">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -54,10 +53,10 @@
       <file leaf-file-name="selectQuery.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lab2/selectQuery.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+            <state relative-caret-position="51">
+              <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
               <folding>
-                <marker date="1476105213531" expanded="true" signature="57:113" ph="SELECT * FRO... superheros" />
+                <marker date="1476105479227" expanded="true" signature="145:201" ph="SELECT * FRO... superheros" />
               </folding>
             </state>
           </provider>
@@ -205,7 +204,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
+    <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -349,7 +348,7 @@
       <updated>1475500886613</updated>
       <workItem from="1475500887692" duration="3237000" />
       <workItem from="1476101246064" duration="1950000" />
-      <workItem from="1476104105275" duration="1179000" />
+      <workItem from="1476104105275" duration="1372000" />
     </task>
     <task id="LOCAL-00001" summary="Changed new line">
       <created>1475502110364</created>
@@ -379,14 +378,21 @@
       <option name="project" value="LOCAL" />
       <updated>1476104128194</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added db connecting files">
+      <created>1476105293487</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1476105293487</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6366000" />
+    <option name="totallyTimeSpent" value="6559000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21225382" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -697,18 +703,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dbconnect.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="136">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Lab2/selectQuery.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+        <state relative-caret-position="51">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
           <folding>
-            <marker date="1476105213531" expanded="true" signature="57:113" ph="SELECT * FRO... superheros" />
+            <marker date="1476105479227" expanded="true" signature="145:201" ph="SELECT * FRO... superheros" />
           </folding>
         </state>
       </provider>
