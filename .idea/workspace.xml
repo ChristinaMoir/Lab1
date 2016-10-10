@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9877e72f-66ee-4be5-a84b-d438b4a2ac96" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lab2/display2010.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lab2/displayAll.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lab2/displayMarvel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lab2/displayXMen.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lab2/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lab2/selectQuery.php" afterPath="$PROJECT_DIR$/Lab2/selectQuery.php" />
     </list>
     <ignored path="Lab1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,13 +32,9 @@
       <file leaf-file-name="Index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-              <folding>
-                <marker date="1476104119222" expanded="true" signature="31:136" ph="..." />
-                <marker date="1476104119222" expanded="true" signature="53:128" ph="..." />
-                <marker date="1476104119222" expanded="true" signature="61:120" ph="..." />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -49,13 +49,73 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="selectQuery.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="selectQuery.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lab2/selectQuery.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding>
-                <marker date="1476106397282" expanded="true" signature="58:84" ph="SELECT * FRO... superheros" />
+                <marker date="1476106768239" expanded="true" signature="58:84" ph="SELECT * FRO... superheros" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab2/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="displayAll.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab2/displayAll.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="2" />
+              <folding>
+                <marker date="1476107052232" expanded="true" signature="49:75" ph="SELECT * FRO... marvelmovies" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="displayMarvel.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab2/displayMarvel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="2" />
+              <folding>
+                <marker date="1476107089492" expanded="true" signature="49:100" ph="SELECT * FRO... marvelmovies" />
+                <marker date="1476107089492" expanded="true" signature="49:117" ph="SELECT * FRO... marvelmovies" />
+                <marker date="1476107089492" expanded="true" signature="49:154" ph="SELECT * FRO... marvelmovies" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="display2010.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab2/display2010.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
+              <folding>
+                <marker date="1476107116717" expanded="true" signature="49:100" ph="SELECT * FRO... marvelmovies" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="displayXMen.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lab2/displayXMen.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="67" selection-start-line="3" selection-start-column="67" selection-end-line="3" selection-end-column="67" />
+              <folding>
+                <marker date="1476107173134" expanded="true" signature="49:103" ph="SELECT * FRO... marvelmovies" />
               </folding>
             </state>
           </provider>
@@ -134,26 +194,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyAge.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab1/MyAge.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WantedGood.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab1/WantedGood.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Arrays.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lab1/Arrays.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -188,7 +228,12 @@
         <option value="$PROJECT_DIR$/Index.php" />
         <option value="$PROJECT_DIR$/Index.php" />
         <option value="$PROJECT_DIR$/dbconnect.php" />
+        <option value="$PROJECT_DIR$/Lab2/index.php" />
         <option value="$PROJECT_DIR$/Lab2/selectQuery.php" />
+        <option value="$PROJECT_DIR$/Lab2/displayAll.php" />
+        <option value="$PROJECT_DIR$/Lab2/displayMarvel.php" />
+        <option value="$PROJECT_DIR$/Lab2/display2010.php" />
+        <option value="$PROJECT_DIR$/Lab2/displayXMen.php" />
       </list>
     </option>
   </component>
@@ -203,7 +248,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -276,12 +321,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\1114409\PhpstormProjects\Lab1" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\1114409\PhpstormProjects\CM3028" />
+      <recent name="C:\Users\1114409\PhpstormProjects\CM3028\Lab2" />
       <recent name="C:\Users\1114409\PhpstormProjects\Lab1" />
       <recent name="C:\Users\1114409\PhpstormProjects\Lab1\Lab1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\1114409\PhpstormProjects\Lab1" />
     </key>
   </component>
   <component name="RunManager">
@@ -347,7 +394,7 @@
       <updated>1475500886613</updated>
       <workItem from="1475500887692" duration="3237000" />
       <workItem from="1476101246064" duration="1950000" />
-      <workItem from="1476104105275" duration="2286000" />
+      <workItem from="1476104105275" duration="3059000" />
     </task>
     <task id="LOCAL-00001" summary="Changed new line">
       <created>1475502110364</created>
@@ -454,14 +501,21 @@
       <option name="project" value="LOCAL" />
       <updated>1476106386407</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="edited db file again">
+      <created>1476106403475</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1476106403475</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7473000" />
+    <option name="totallyTimeSpent" value="8246000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21225382" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -514,11 +568,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1476104119222" expanded="true" signature="31:136" ph="..." />
-            <marker date="1476104119222" expanded="true" signature="53:128" ph="..." />
-            <marker date="1476104119222" expanded="true" signature="61:120" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -621,11 +671,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding>
-            <marker date="1476104119222" expanded="true" signature="31:136" ph="..." />
-            <marker date="1476104119222" expanded="true" signature="53:128" ph="..." />
-            <marker date="1476104119222" expanded="true" signature="61:120" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -657,11 +703,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1476104119222" expanded="true" signature="31:136" ph="..." />
-            <marker date="1476104119222" expanded="true" signature="53:128" ph="..." />
-            <marker date="1476104119222" expanded="true" signature="61:120" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -760,18 +802,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding>
-            <marker date="1476104119222" expanded="true" signature="31:136" ph="..." />
-            <marker date="1476104119222" expanded="true" signature="53:128" ph="..." />
-            <marker date="1476104119222" expanded="true" signature="61:120" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dbconnect.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -780,12 +810,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lab2/selectQuery.php">
+    <entry file="file://$PROJECT_DIR$/Index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab2/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab2/displayAll.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="2" />
           <folding>
-            <marker date="1476106397282" expanded="true" signature="58:84" ph="SELECT * FRO... superheros" />
+            <marker date="1476107052232" expanded="true" signature="49:75" ph="SELECT * FRO... marvelmovies" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab2/displayMarvel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="2" />
+          <folding>
+            <marker date="1476107089492" expanded="true" signature="49:100" ph="SELECT * FRO... marvelmovies" />
+            <marker date="1476107089492" expanded="true" signature="49:117" ph="SELECT * FRO... marvelmovies" />
+            <marker date="1476107089492" expanded="true" signature="49:154" ph="SELECT * FRO... marvelmovies" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab2/display2010.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="65" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
+          <folding>
+            <marker date="1476107116717" expanded="true" signature="49:100" ph="SELECT * FRO... marvelmovies" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab2/selectQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <marker date="1476106768239" expanded="true" signature="58:84" ph="SELECT * FRO... superheros" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab2/displayXMen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="67" selection-start-line="3" selection-start-column="67" selection-end-line="3" selection-end-column="67" />
+          <folding>
+            <marker date="1476107173134" expanded="true" signature="49:103" ph="SELECT * FRO... marvelmovies" />
           </folding>
         </state>
       </provider>
