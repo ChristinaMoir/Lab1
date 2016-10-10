@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9877e72f-66ee-4be5-a84b-d438b4a2ac96" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Lab2/selectQuery.php" afterPath="$PROJECT_DIR$/Lab2/selectQuery.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dbconnect.php" afterPath="$PROJECT_DIR$/dbconnect.php" />
     </list>
     <ignored path="Lab1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,17 +39,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dbconnect.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="dbconnect.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dbconnect.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="289">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="selectQuery.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="selectQuery.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lab2/selectQuery.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -187,8 +187,8 @@
         <option value="$PROJECT_DIR$/Index.php" />
         <option value="$PROJECT_DIR$/Index.php" />
         <option value="$PROJECT_DIR$/Index.php" />
-        <option value="$PROJECT_DIR$/dbconnect.php" />
         <option value="$PROJECT_DIR$/Lab2/selectQuery.php" />
+        <option value="$PROJECT_DIR$/dbconnect.php" />
       </list>
     </option>
   </component>
@@ -347,7 +347,7 @@
       <updated>1475500886613</updated>
       <workItem from="1475500887692" duration="3237000" />
       <workItem from="1476101246064" duration="1950000" />
-      <workItem from="1476104105275" duration="1851000" />
+      <workItem from="1476104105275" duration="1916000" />
     </task>
     <task id="LOCAL-00001" summary="Changed new line">
       <created>1475502110364</created>
@@ -412,11 +412,18 @@
       <option name="project" value="LOCAL" />
       <updated>1476105941975</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="edited db file again">
+      <created>1476105965670</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1476105965670</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7038000" />
+    <option name="totallyTimeSpent" value="7103000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
@@ -730,14 +737,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dbconnect.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lab2/selectQuery.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -745,6 +744,14 @@
           <folding>
             <marker date="1476105961524" expanded="true" signature="163:219" ph="SELECT * FRO... superheros" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbconnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
