@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9877e72f-66ee-4be5-a84b-d438b4a2ac96" name="Default" comment="Added Adminer script">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Index.php" afterPath="$PROJECT_DIR$/Index.php" />
+    <list default="true" id="9877e72f-66ee-4be5-a84b-d438b4a2ac96" name="Default" comment="added db connecting files">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Lab2/selectQuery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dbconnect.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Lab1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,12 +27,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="136">
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+              <folding>
+                <marker date="1476104119222" expanded="true" signature="31:136" ph="..." />
+                <marker date="1476104119222" expanded="true" signature="53:128" ph="..." />
+                <marker date="1476104119222" expanded="true" signature="61:120" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dbconnect.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dbconnect.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="selectQuery.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lab2/selectQuery.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+              <folding>
+                <marker date="1476105213531" expanded="true" signature="57:113" ph="SELECT * FRO... superheros" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -39,7 +66,7 @@
       <file leaf-file-name="adminer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/adminer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2805">
+            <state relative-caret-position="-9304">
               <caret line="165" column="4267" selection-start-line="165" selection-start-column="4267" selection-end-line="165" selection-end-column="4267" />
               <folding>
                 <marker date="1476103244095" expanded="true" signature="52704:52714" ph="{...}" />
@@ -162,6 +189,8 @@
         <option value="$PROJECT_DIR$/Index.php" />
         <option value="$PROJECT_DIR$/Index.php" />
         <option value="$PROJECT_DIR$/Index.php" />
+        <option value="$PROJECT_DIR$/dbconnect.php" />
+        <option value="$PROJECT_DIR$/Lab2/selectQuery.php" />
       </list>
     </option>
   </component>
@@ -176,8 +205,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="780" />
-    <option name="width" value="1147" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -221,6 +250,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="CM3028" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CM3028" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CM3028" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Lab2" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -306,7 +349,7 @@
       <updated>1475500886613</updated>
       <workItem from="1475500887692" duration="3237000" />
       <workItem from="1476101246064" duration="1950000" />
-      <workItem from="1476104105275" duration="14000" />
+      <workItem from="1476104105275" duration="1179000" />
     </task>
     <task id="LOCAL-00001" summary="Changed new line">
       <created>1475502110364</created>
@@ -329,18 +372,26 @@
       <option name="project" value="LOCAL" />
       <updated>1476103477918</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Changed index">
+      <created>1476104128194</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1476104128194</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5201000" />
+    <option name="totallyTimeSpent" value="6366000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="780" y="0" width="1147" height="1047" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17847286" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21225382" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -373,7 +424,9 @@
     <MESSAGE value="Changed new line" />
     <MESSAGE value="Switch statement" />
     <MESSAGE value="Added Adminer script" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Adminer script" />
+    <MESSAGE value="Changed index" />
+    <MESSAGE value="added db connecting files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added db connecting files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -384,7 +437,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1476104119222" expanded="true" signature="31:136" ph="..." />
+            <marker date="1476104119222" expanded="true" signature="53:128" ph="..." />
+            <marker date="1476104119222" expanded="true" signature="61:120" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -487,7 +544,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding />
+          <folding>
+            <marker date="1476104119222" expanded="true" signature="31:136" ph="..." />
+            <marker date="1476104119222" expanded="true" signature="53:128" ph="..." />
+            <marker date="1476104119222" expanded="true" signature="61:120" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -519,7 +580,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <marker date="1476104119222" expanded="true" signature="31:136" ph="..." />
+            <marker date="1476104119222" expanded="true" signature="53:128" ph="..." />
+            <marker date="1476104119222" expanded="true" signature="61:120" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -549,7 +614,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/adminer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2805">
+        <state relative-caret-position="-9304">
           <caret line="165" column="4267" selection-start-line="165" selection-start-column="4267" selection-end-line="165" selection-end-column="4267" />
           <folding>
             <marker date="1476103244095" expanded="true" signature="52704:52714" ph="{...}" />
@@ -620,9 +685,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        <state relative-caret-position="136">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <marker date="1476104119222" expanded="true" signature="31:136" ph="..." />
+            <marker date="1476104119222" expanded="true" signature="53:128" ph="..." />
+            <marker date="1476104119222" expanded="true" signature="61:120" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbconnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab2/selectQuery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+          <folding>
+            <marker date="1476105213531" expanded="true" signature="57:113" ph="SELECT * FRO... superheros" />
+          </folding>
         </state>
       </provider>
     </entry>
