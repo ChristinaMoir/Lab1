@@ -4,7 +4,7 @@
     if($db->connect_errno){
         die('Connect failed['.$db->connect_error.']');
     }
-    $sql_query = "SELECT * FROM marvelmovies WHERE superpower LIKE '%laser%'";
+    $sql_query = "SELECT * FROM marvelmovies";
 
     $results = $db->query($sql_query);
 

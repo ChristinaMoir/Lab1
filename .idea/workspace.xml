@@ -52,10 +52,10 @@
       <file leaf-file-name="selectQuery.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lab2/selectQuery.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            <state relative-caret-position="102">
+              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
               <folding>
-                <marker date="1476106092957" expanded="true" signature="163:221" ph="SELECT * FRO... superheros" />
+                <marker date="1476106135891" expanded="true" signature="163:189" ph="SELECT * FRO... superheros" />
               </folding>
             </state>
           </provider>
@@ -347,7 +347,7 @@
       <updated>1475500886613</updated>
       <workItem from="1475500887692" duration="3237000" />
       <workItem from="1476101246064" duration="1950000" />
-      <workItem from="1476104105275" duration="1982000" />
+      <workItem from="1476104105275" duration="2024000" />
     </task>
     <task id="LOCAL-00001" summary="Changed new line">
       <created>1475502110364</created>
@@ -433,11 +433,18 @@
       <option name="project" value="LOCAL" />
       <updated>1476106076543</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="edited db file again">
+      <created>1476106103937</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1476106103937</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7169000" />
+    <option name="totallyTimeSpent" value="7211000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
@@ -761,10 +768,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lab2/selectQuery.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        <state relative-caret-position="102">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
           <folding>
-            <marker date="1476106092957" expanded="true" signature="163:221" ph="SELECT * FRO... superheros" />
+            <marker date="1476106135891" expanded="true" signature="163:189" ph="SELECT * FRO... superheros" />
           </folding>
         </state>
       </provider>
