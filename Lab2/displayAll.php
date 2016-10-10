@@ -1,16 +1,25 @@
-<?php
-include "../dbconnect.php";
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>
 
-$sql_query = "SELECT * FROM marvelmovies";
+    <h2>All Movies</h2>
+    <?php
+    include "../dbconnect.php";
 
-$results = $db->query($sql_query);
+    $sql_query = "SELECT * FROM marvelmovies";
 
-while($row=$results->fetch_array()){
-    echo "<p> Title:".$row['title']." Year released: ".$row['yearReleased'].
-        " Production Studio: ".$row['productionStudio']." Notes: ".$row['notes']."</p>";
-}
+    $results = $db->query($sql_query);
 
-$results->close();
-$db->close();
+    while($row=$results->fetch_array()){
+        echo "<p> Title:".$row['title']." Year released: ".$row['yearReleased'].
+            " Production Studio: ".$row['productionStudio']." Notes: ".$row['notes']."</p>";
+    }
 
-?>
+    $results->close();
+    $db->close();
+
+    ?>
+</body>
+</html>
