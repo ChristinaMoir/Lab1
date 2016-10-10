@@ -13,5 +13,5 @@
 
     $results->close();
     $db->close();
-
+echo "tets";
 ?>
