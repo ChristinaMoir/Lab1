@@ -8,10 +8,9 @@
     $results = $db->query($sql_query);
 
     while($row=$results->fetch_array()){
-    echo "<p>".$row['superherName']."</p>";
+    echo "<p>".$row['superheroName']."</p>";
     }
 
     $results->close();
     $db->close();
-echo "tets";
 ?>
